@@ -19,14 +19,14 @@ var myVar = "Hello, world!";
 ```
 </pre>
 
-```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
-```
+### Task List Example
 
- ```md
-   - [ ] Turn on GitHub Pages
-   - [ ] Outline my portfolio
-   - [ ] Introduce myself to the world
-   ```
+- [x] List syntax is required  
+- [x] This item is complete  
+- [ ] This item is not complete  
+
+### GitHub Task List Activity
+
+- [ ] Turn on GitHub Pages  
+- [ ] Outline my portfolio  
+- [ ] Introduce myself to the world  
